@@ -1,1 +1,3 @@
-# learn_cpp
+# Learn C++
+
+Using this site: https://www.learncpp.com/
